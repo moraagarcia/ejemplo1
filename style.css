@@ -1,0 +1,21 @@
+.negro{
+	background-color: black;
+	width: 320px;
+	height: 320px;
+	color: white;
+	font-size: 50px;
+}
+
+.rojo{
+	background-color: red;
+	width: 320px;
+	height: 320px;
+	color: yellow;
+	font-size: 50px;
+}
+
+.grid{
+	display: grid;
+	grid-template-columns: 25% 25% 25% 25%;
+	grid-column-gap: 1px;
+}
